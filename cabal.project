@@ -1,0 +1,4 @@
+packages: example-cabal-project.cabal
+jobs: $ncpus
+package example-cabal-project
+  ghc-options: -Werror -O0

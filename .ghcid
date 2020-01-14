@@ -1,0 +1,4 @@
+--command "cabal repl"
+--restart optics-by-example.cabal
+--restart cabal.project
+--restart cabal.project.local

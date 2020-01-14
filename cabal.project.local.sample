@@ -1,0 +1,4 @@
+-- Example cabal-install local project file
+--
+-- Copy this file to cabal.project.local and customize as desired!
+optimization: 0
